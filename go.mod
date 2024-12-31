@@ -2,10 +2,7 @@ module github.com/codinomello/ebiten-go
 
 go 1.23.4
 
-require (
-	github.com/hajimehoshi/ebiten/v2 v2.8.6
-	github.com/mattn/go-sqlite3 v1.14.24
-)
+require github.com/hajimehoshi/ebiten/v2 v2.8.6
 
 require (
 	github.com/ebitengine/gomobile v0.0.0-20240911145611-4856209ac325 // indirect
